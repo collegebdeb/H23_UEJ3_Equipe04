@@ -4,7 +4,7 @@
 
 **Engin :** Unreal Engine v5.1.0
 
-**Collaborateur :**
+**Collaborateurs :**
 - Alexandre Perreault
 - Jacques Loiselle
 - Marie-Pier Boucher
