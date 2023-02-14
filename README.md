@@ -2,7 +2,7 @@
 
 **Type :** Post-apocalyptic twin-stick shooter
 
-**Engin :** Unreal Engine v5.1.0
+**Engin :** Unreal Engine v5.1.1
 
 **Collaborateurs :**
 - Alexandre Perreault
