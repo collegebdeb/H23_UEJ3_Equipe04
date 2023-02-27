@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-Un petit prototype réalisé sous Unreal Engine, tentant de capter l'essence d'un jeu de type "twin-stick shooter" dans un univers post-apocalyptique et développé au milieu de notre formation en programmation de jeux vidéo au Collège du Bois-de-Boulogne. Ceci est notre projet final pour le cours "Utilisation d'un engin de jeu vidéo 3" (session 5 de 5).
+Un petit prototype réalisé sous Unreal Engine, tentant de capter l'essence d'un jeu de type "twin-stick shooter" dans un univers post-apocalyptique et développé dans le cadre de notre formation en programmation de jeux vidéo au Collège du Bois-de-Boulogne. Ceci est notre projet final pour le cours "Utilisation d'un engin de jeu vidéo 3" (session 5 de 5).
 
 ## F.A.Q.
 
