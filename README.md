@@ -9,7 +9,7 @@ Un petit prototype réalisé sous Unreal Engine, tentant de capturer l'essence d
 
 ## F.A.Q.
 
-> Quel est le l'engin de jeu utilisé ?
+> Quel est l'engin de jeu utilisé ?
 - Unreal Engine v5.1.1
 
 > Quelle est la période de développement ?
