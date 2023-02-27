@@ -5,18 +5,18 @@
 ---
 
 ## Introduction
-Un petit prototype réalisé sous Unreal Engine, tentant de capturer l'essence d'un jeu de type "twin-stick shooter" dans un univers post-apocalyptique et développé dans le cadre de notre formation en programmation de jeux vidéo au Collège de Bois-de-Boulogne. Ceci est notre projet final pour le cours "Utilisation d'un engin de jeu vidéo 3" (session 5 de 5).
+A small prototype made in Unreal Engine, attempting to capture the essence of a twin-stick shooter in a post-apocalyptic universe and developed as part of our formation in video game programming at College of Bois-de-Boulogne. This is our final project for the "Using a Video Game Engine 3" course (Session 5 of 5).
 
 ## F.A.Q.
-
-> Quel est l'engin de jeu utilisé ?
+> What is the game engine used?
 - Unreal Engine v5.1.1
 
-> Quelle est la période de développement ?
-- Du 3 janvier 2023 au 24 mars 2023 [période de 80 jours]
+> What is the development period?
+- From January 3rd 2023 to March 24th 2023 [80 days period]
+- NOTE : This game is currently in development
 
-## Crédits
-Ce prototype (actuellement en développement) est développé au sein d'une équipe de 5 programmeurs
+## Credits
+This prototype was developed as part of a team of 5 programmers
 
 - Alexandre Perreault
 - Jacques Loiselle
@@ -24,5 +24,5 @@ Ce prototype (actuellement en développement) est développé au sein d'une équ
 - Nicolas Larralde
 - Tommy Aubin
 
-## Légal
-Le code source de ce "repository" est destiné à un usage non commercial uniquement. Si vous utilisez le code source, vous ne pouvez pas facturer à d'autres l'accès à celui-ci ou à tout travail dérivé de celui-ci. Tous les assets (textures, sons, etc.) ont été trouvés sur internet (soit achetés sur l'Asset Store, soit auprès d'autres sources).
+## Legal
+The source code in this repository is for non-commercial use only. If you use the source code you may not charge others for access to it or any derivative work thereof. All the assets (textures, sounds, etc.) were found on the internet (either purchased from the Asset Store or from other sources).
