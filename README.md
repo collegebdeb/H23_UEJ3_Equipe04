@@ -24,5 +24,5 @@ Ce prototype (actuellement en développement) est développé au sein d'une équ
 - Nicolas Larralde
 - Tommy Aubin
 
-## Legal
+## Légal
 Le code source de ce "repository" est destiné à un usage non commercial uniquement. Si vous utilisez le code source, vous ne pouvez pas facturer à d'autres l'accès à celui-ci ou à tout travail dérivé de celui-ci. Tous les assets (textures, sons, etc.) ont été trouvés sur internet (soit achetés sur l'Asset Store, soit auprès d'autres sources).
