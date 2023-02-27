@@ -14,10 +14,9 @@ Un petit prototype réalisé sous Unreal Engine, tentant de capter l'essence d'u
 
 > Quelle est la période de développement ?
 - Du 3 janvier 2023 au 24 mars 2023 [période de 80 jours]
-- NOTE : Ce prototype est actuellement en développement
 
 ## Crédits
-Ce prototype a été développé au sein d'une équipe de 5 programmeurs
+Ce prototype (actuellement en développement) est développé au sein d'une équipe de 5 programmeurs
 
 - Alexandre Perreault
 - Jacques Loiselle
