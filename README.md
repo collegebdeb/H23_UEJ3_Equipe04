@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a prototype made in Unreal Engine, attempting to capture the essence of a twin-stick shooter in a post-apocalyptic universe and developed as part of our formation in video game programming at College of Bois-de-Boulogne. This is our final project for the "Using a Video Game Engine 3" course (Session 5 of 5).
+This is a prototype made in Unreal Engine, attempting to capture the essence of a twin-stick shooter in a post-apocalyptic universe. It was developed as part of our formation in video game programming at College of Bois-de-Boulogne. This is our final project for the "Using a Video Game Engine 3" course (Session 5 of 5).
 
 ## F.A.Q.
 > What is the game engine used?
