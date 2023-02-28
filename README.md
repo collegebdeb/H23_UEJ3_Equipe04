@@ -13,7 +13,7 @@ This is a prototype made in Unreal Engine, attempting to capture the essence of 
 
 > What is the development period?
 - From January 3rd 2023 to March 24th 2023 [80 days period]
-- NOTE : This game is currently in development
+- NOTE : Currently in development
 
 ## Credits
 This prototype was developed as part of a team of 5 programmers
