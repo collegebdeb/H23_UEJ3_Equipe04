@@ -15,6 +15,20 @@ This is a prototype made in Unreal Engine, attempting to capture the essence of 
 - From January 3rd 2023 to March 24th 2023 [80 days period]
 - NOTE : Currently in development
 
+## Controls
+#### Player movements
+- W, A, S, D : move
+- Mouse XY-Axis : look around
+- Space bar : jump
+- C : toggle crouch
+
+#### Player actions
+- Left Mouse Button : shoot
+- R : reload
+- F : toggle flashlight
+- E : interact
+- Q : destroy crate
+
 ## Credits
 This prototype was developed as part of a team of 5 programmers
 
