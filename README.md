@@ -1,4 +1,4 @@
-<h1 align="center">Twin-stick shooter</h1>
+<h1 align="center">Zombie Apocalypse</h1>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221456503-d3164c65-f942-4238-b6e6-865fa9bfa98d.png"></p>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221456507-732c4653-c4b8-4d6e-982f-6bd7910ac72e.png"></p>
 
