@@ -16,6 +16,9 @@ This is a prototype made in Unreal Engine, attempting to capture the essence of 
 - NOTE : Currently in development
 
 ## Controls
+#### UI
+- ESC or P : open pause menu [in-game only]
+
 #### Player movements
 - W, A, S, D : move
 - Mouse XY-Axis : look around
