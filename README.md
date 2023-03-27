@@ -1,6 +1,6 @@
 <h1 align="center">Zombie Apocalypse</h1>
-<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221456503-d3164c65-f942-4238-b6e6-865fa9bfa98d.png"></p>
-<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221456507-732c4653-c4b8-4d6e-982f-6bd7910ac72e.png"></p>
+<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/227878759-7e25aa56-ff72-499e-a2bd-27d5f1a9e65b.jpg"></p>
+<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/227879641-eac36a84-8cc8-4223-b15e-d05667e4fc08.jpg"></p>
 
 ---
 
