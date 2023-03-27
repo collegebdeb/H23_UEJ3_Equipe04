@@ -13,7 +13,6 @@ This is a prototype made in Unreal Engine, attempting to capture the essence of 
 
 > What is the development period?
 - From January 3rd 2023 to March 24th 2023 [80 days period]
-- NOTE : Currently in development
 
 ## Controls
 #### UI
